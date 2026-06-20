@@ -19,6 +19,6 @@
 
 <h3 align="left">My Skills:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html5,css3,javascript,react,nodejs,mongodb,git,vscode,spring,python,mysql,restfulapi,vscode,TypeScript)](https://skillicons.dev)
 
 
