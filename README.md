@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Pritam 👋
 
-<!--
-**PritamAnand11/PritamAnand11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I recently completed my Master of Computer Applications (MCA)
 
-Here are some ideas to get you started:
+💻 Full-Stack Developer (MERN Stack)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 React, Node.js, MongoDB, Spring Boot
+
+📫 Reach me: Pritamanand60@gmail.com
+
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,mongodb,git,vscode)](https://skillicons.dev)
