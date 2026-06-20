@@ -14,7 +14,7 @@
 <a href="https://x.com/pre_it_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/pre_it_" height="30" width="40" /></a>
 <a href="/https://www.linkedin.com/in/pritam-anand/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pritam-anand/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/pre.it_?igsh=dgvoy2f0addjmtq5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pre.it_?igsh=dgvoy2f0addjmtq5" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/pritamanand01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/pritamanand01/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/pritamanand01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">My Skills:</h3>
