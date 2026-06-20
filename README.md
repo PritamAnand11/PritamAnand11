@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Pritam Anand</h1>
-<h3 align="center">💻 Full-Stack Developer (MERN Stack)</h3>
+<h3 align="center">Full-Stack Developer (MERN Stack) 💻</h3>
 
 - 🌱 I’m currently learning **Spring Boot**
 
